@@ -19,10 +19,10 @@ For HTTPS connections, run the `git clone https://github.com/Huawei/huaweicloud-
 For SSH connections, run the `git@github.com:Huawei/huaweicloud-fpga.git` command to download the suite.
 
 
-**Note**: Ensure that the Git tool is installed before downloading the development suite.
+> Ensure that the Git tool is installed before downloading the development suite.
 
 <a name="complie_tool"></a>
-##1.2 Compiling and Installing Tools
+## 1.2 Compiling and Installing Tools
 
 <a name="fisclent_install"></a>
 ### 1.2.1 Compiling and Installing the FPGA Image Management Tool
@@ -81,7 +81,7 @@ You can use AEI_Register.sh to register an FPGA image with the image management 
 
 [Registering an FPGA Image](./fp1/docs/注册FPGA镜像.md)
 
-**Note**: FPGA image registration depends on the FPGA image management tool. You need to [compile and install the FPGA image management tool](#fisclent_install) before registration.
+> FPGA image registration depends on the FPGA image management tool. You need to [compile and install the FPGA image management tool](#fisclent_install) before registration.
 
 ### Step 3: Query the FPGA image
 After configuring the files, run the **fisclient** command on the Linux shell to go to the fisclient login screen and enter the HWS account password when prompted. On the fisclient CLI, you can run corresponding commands to query, delete, or associate FPGA images.
@@ -94,7 +94,7 @@ For details, see the following file.
 
 [load an fpga image](./fp1/tools/fpga_tool/docs/load_an_fpga_image.md)
 
-**Note**:
+>
 
 + [Compile and install the FPGA image loading tool](#loadtool_install) before using.
 + For more details of loading tool, see [fpga_tool README](./fp1/tools/fpga_tool/README.md).
