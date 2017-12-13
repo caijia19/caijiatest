@@ -96,6 +96,7 @@ For details, see the following file.
 
 
 > [Compile and install the FPGA image loading tool](#loadtool_install) before using.
+
 > For more details of loading tool, see [fpga_tool README](./fp1/tools/fpga_tool/README.md).
 
 <a name="sec_3_2"></a>
