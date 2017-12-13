@@ -94,10 +94,9 @@ For details, see the following file.
 
 [load an fpga image](./fp1/tools/fpga_tool/docs/load_an_fpga_image.md)
 
->
 
-+ [Compile and install the FPGA image loading tool](#loadtool_install) before using.
-+ For more details of loading tool, see [fpga_tool README](./fp1/tools/fpga_tool/README.md).
+> [Compile and install the FPGA image loading tool](#loadtool_install) before using.
+> For more details of loading tool, see [fpga_tool README](./fp1/tools/fpga_tool/README.md).
 
 <a name="sec_3_2"></a>
 ## 3.2 Compiling and debugging User Applications
