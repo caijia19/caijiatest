@@ -48,6 +48,7 @@ Vivado-based and SDAccel-based hardware developments are supported by high-perfo
 When using a high-performance architecture, hardware development is based on the Vivado process. The following figure shows the development process.
 
 Vivado-based Hardware Development flow chart
+
 ![](./fp1/docs/media/vivado_hdk.jpg)
 
 [Vivado-based Hardware Development Process](./fp1/docs/基于vivado硬件开发流程.md)
@@ -57,6 +58,7 @@ Vivado-based Hardware Development flow chart
 When using a general-purpose architecture, hardware development is based on the SDAccel process. The following figure shows the development process.
 
 SDAccel-based Hardware Development flow chart
+
 ![](./fp1/docs/media/SDAccel_hdk.jpg)
 
 [SDAccel-based Hardware Development Process](./fp1/docs/基于SDAccel硬件开发流程.md)
@@ -147,6 +149,7 @@ For general-purpose architectures, see [SDAccel-based SDK Configuration and Comp
 For high-performance server architectures, FAC services provide three examples. Example 1 implements user logic version reading, data inversion, and addition functions. Example 2 implements user logic DMA (Direct Memory Access) loopback channels and DDR (DDR SDRAM) read functions. Example 3 implements user logic FPGA memory manage unit (FMMU) function.
 
 Vivado-based example operation flow chart
+
 ![](./fp1/docs/media/vivado_example.jpg)
 
 For details, see [Using Vivado-based Examples](./fp1/docs/使用基于vivado的Example.md).
@@ -156,6 +159,7 @@ For details, see [Using Vivado-based Examples](./fp1/docs/使用基于vivado的E
 For general-purpose server architectures, FAC services provide an example implementing SDAccel-based program simulation and hardware instance execution functions. This section describes the operations of the **mmult_hls** example. For the operations of other examples, see this section.
 
 SDAccel-based example operation flow chart
+
 ![](./fp1/docs/media/SDAccel_example.jpg)
 
 For details, see [Using an SDAccel-based Example](./fp1/docs/使用基于SDAccel的Example.md).
